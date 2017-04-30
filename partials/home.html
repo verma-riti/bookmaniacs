@@ -1,0 +1,66 @@
+
+<div carousel duration='500' no-wrap='true' ng-show="hideDiv">
+    <a class="carousel-item" href="javascript:void(0);"><img src="images/java.png"></a>
+    <a class="carousel-item" href="javascript:void(0);"><img src="images/c.png"></a>
+    <a class="carousel-item" href="javascript:void(0);"><img src="images/nodejs.png"></a>
+    <a class="carousel-item" href="javascript:void(0);"><img src="images/jquery.png"></a>
+    <a class="carousel-item" href="javascript:void(0);"><img src="images/HTML.png"></a>
+</div>
+
+<div class="header-msg" ng-show="hideDiv">
+	<h3>Welcome! Here are recommendations for you.</h3>
+	<p>Personalized recommendations based on your intrest and courses you're following</p>
+</div>
+
+<div class="row">
+	<div class="col l3 s12 m4" ng-repeat="i in books.items | filter :search">
+		<div class="card small">
+		    <div class="card-image waves-effect waves-block waves-light">
+		      <img class="activator" src="{{i.volumeInfo.imageLinks.smallThumbnail}}">
+		    </div>
+		    <div class="card-content">
+		      <p class="card-title activator grey-text text-darken-4">{{i.volumeInfo.title}}<i class="material-icons right">more_vert</i></p>
+		    </div>
+		    <div class="card-stacked">
+		        <div class="card-content">
+		          <p></p>
+		        </div>
+		        <div class="card-action">
+		          <a href="#preview/book{{$index+1}}" class="grey-text text-darken-4" ><b>BUY</b></a>
+		          <a class="grey-text text-darken-4" data-target='book{{$index}}'  modal><b>Preview</b></a>
+		          
+		        </div>
+		    </div>
+		    <div class="card-reveal">
+		      <span class="card-title grey-text text-darken-4"><b>{{i.volumeInfo.title}}</b><i class="material-icons right">close</i></span></br></b>
+		      <p><b>Publisher :</b> {{i.volumeInfo.publisher}}</p>
+		      <p><b>Published Date :</b> {{i.volumeInfo.publishedDate}}</p>
+		      <b>Authors</b><span ng-repeat="j in i.volumeInfo.authors">{{j}}, </span>
+
+		    </div>
+		</div>
+		<!-- Modal Structure -->
+		<div id="book{{$index}}" class="modal">
+		    <div class="modal-content">
+		        <div class="row" >
+				    <div class="col l4 s12 m4">
+				    	<img class="activator" src="{{i.volumeInfo.imageLinks.thumbnail}}">
+					</div>
+				    <div class="col l8 s12 m8">
+				    	<h5>{{i.volumeInfo.title}}</h5>
+
+				    	<span ng-repeat="j in i.volumeInfo.authors">{{j}}, </span>
+				    	<p>{{i.volumeInfo.description}}</p>
+				    	
+				    </div>
+				</div>
+		        
+		    </div>
+		    <div class="modal-footer">
+		    	<add-to-cart-button class="waves-effect waves-light btn" ng-click="addToCart(id , title, thumbnail)" >Add To Cart</add-to-cart-button>
+		    	<a class="modal-action modal-close btn-flat" target="_blank" href="{{i.volumeInfo.previewLink}}"><b>View On Google</b></a>
+		        <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+		    </div>
+		</div>
+	</div>
+</div>

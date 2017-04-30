@@ -1,0 +1,1584 @@
+{
+	"kind": "books#volumes",
+	"totalItems": 2933,
+	"items": [
+		{
+			"kind": "books#volume",
+			"id": "book1",
+			"etag": "kkAcorJjyHA",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/gCtazG4ZXlQC",
+			"volumeInfo": {
+				"title": "Harry Potter and the Deathly Hallows",
+				"authors": [
+					"J.K. Rowling"
+				],
+				"publisher": "Pottermore",
+				"publishedDate": "2015-12-08",
+				"description": "\"'Give me Harry Potter,' said Voldemort's voice, 'and none shall be harmed. Give me Harry Potter, and I shall leave the school untouched. Give me Harry Potter, and you will be rewarded.'\" As he climbs into the sidecar of Hagrid's motorbike and takes to the skies, leaving Privet Drive for the last time, Harry Potter knows that Lord Voldemort and the Death Eaters are not far behind. The protective charm that has kept Harry safe until now is broken, but he cannot keep hiding. The Dark Lord is breathing fear into everything Harry loves and to stop him Harry will have to find and destroy the remaining Horcruxes. The final battle must begin - Harry must stand and face his enemy...",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9781781100264"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1781100268"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 784,
+				"printType": "BOOK",
+				"categories": [
+					"Juvenile Fiction"
+				],
+				"averageRating": 4.5,
+				"ratingsCount": 618,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "2.6.7.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=gCtazG4ZXlQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=gCtazG4ZXlQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=gCtazG4ZXlQC&dq=harry+potter&hl=&cd=1&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=gCtazG4ZXlQC&dq=harry+potter&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Deathly_Hallows.html?hl=&id=gCtazG4ZXlQC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=gCtazG4ZXlQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "&quot;&#39;Give me Harry Potter,&#39; said Voldemort&#39;s voice, &#39;and none shall be harmed."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book2",
+			"etag": "eqcexN8XPZo",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/Jx1ojwEACAAJ",
+			"volumeInfo": {
+				"title": "Harry Potter and the Cursed Child - Parts One and Two",
+				"subtitle": "The Official Script Book of the Original West End Production Special Rehearsal Edition",
+				"authors": [
+					"J. K. Rowling",
+					"John Tiffany",
+					"Jack Thorne"
+				],
+				"publisher": "Arthur A. Levine Books",
+				"publishedDate": "2016-07-31",
+				"description": "The Eighth Story. Nineteen Years Later. Based on an original new story by J.K. Rowling, John Tiffany, and Jack Thorne, a new play by Jack Thorne, \"Harry Potter and the Cursed Child\" is the eighth story in the Harry Potter series and the first official Harry Potter story to be presented on stage. The play will receive its world premiere in London's West End on July 30, 2016. It was always difficult being Harry Potter and it isn't much easier now that he is an overworked employee of the Ministry of Magic, a husband and father of three school-age children. While Harry grapples with a past that refuses to stay where it belongs, his youngest son Albus must struggle with the weight of a family legacy he never wanted. As past and present fuse ominously, both father and son learn the uncomfortable truth: sometimes, darkness comes from unexpected places. This Special Rehearsal Edition will be available to purchase until early 2017, after which a Definitive Edition of the script will go on sale.",
+				"industryIdentifiers": [{
+						"type": "ISBN_10",
+						"identifier": "1338099132"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9781338099133"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 336,
+				"printType": "BOOK",
+				"averageRating": 5.0,
+				"ratingsCount": 3,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=Jx1ojwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=Jx1ojwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=Jx1ojwEACAAJ&dq=harry+potter&hl=&cd=2&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=Jx1ojwEACAAJ&dq=harry+potter&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Cursed_Child_Parts.html?hl=&id=Jx1ojwEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=Jx1ojwEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "As an overworked employee of the Ministry of Magic, a husband, and a father, Harry Potter struggles with a past that refuses to stay where it belongs while his youngest son, Albus, finds the weight of the family legacy difficult to bear."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book3",
+			"etag": "L4jINF8hGgM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/lMM4jgEACAAJ",
+			"volumeInfo": {
+				"title": "Harry Potter Coloring Book",
+				"authors": [
+					"Inc. Scholastic"
+				],
+				"publisher": "Scholastic Incorporated",
+				"publishedDate": "2015-11-10",
+				"description": "Packed with stunning pieces of artwork from the Warner Bros. archive, this deluxe coloring book gives fans the chance to color in the vivid settings and beloved characters of J.K. Rowling's wizarding world. Containing intricate line drawings used in the making of the Harry Potter films, this coloring book includes fan-favorite scenes, creatures, and characters: from Dobby and baby Norbert to Quidditch games and the unforgettable final battle between Harry and Lord Voldemort. Unique and interactive, Harry Potter: The Official Coloring Book is a perfect collector's item for all fans of the blockbuster saga--whether it's for those who grew up with Harry, Ron, and Hermione, or those who are discovering the magic for the very first time.",
+				"industryIdentifiers": [{
+						"type": "ISBN_10",
+						"identifier": "1338029991"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9781338029994"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 96,
+				"printType": "BOOK",
+				"categories": [
+					"Juvenile Fiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=lMM4jgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=lMM4jgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=lMM4jgEACAAJ&dq=harry+potter&hl=&cd=3&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=lMM4jgEACAAJ&dq=harry+potter&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_Coloring_Book.html?hl=&id=lMM4jgEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=lMM4jgEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Packed with stunning pieces of artwork from the Warner Bros. archive, this deluxe coloring book gives fans the chance to color in the vivid settings and beloved characters of J.K. Rowling&#39;s wizarding world."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book4",
+			"etag": "M3tyFR8C9PM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/uCKvLmFfc84C",
+			"volumeInfo": {
+				"title": "Harry Potter handbook, movie magic",
+				"authors": [
+					"Scholastic Inc"
+				],
+				"publisher": "Scholastic Inc.",
+				"publishedDate": "2011",
+				"description": "Presents a guide to the Harry Potter film series, including information on the actors, characters, settings, and special effects of the films.",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9780545296656"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "054529665X"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 64,
+				"printType": "BOOK",
+				"categories": [
+					"Juvenile Nonfiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=uCKvLmFfc84C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=uCKvLmFfc84C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=uCKvLmFfc84C&printsec=frontcover&dq=harry+potter&hl=&cd=4&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=uCKvLmFfc84C&dq=harry+potter&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_handbook_movie_magic.html?hl=&id=uCKvLmFfc84C"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=uCKvLmFfc84C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Presents a guide to the Harry Potter film series, including information on the actors, characters, settings, and special effects of the films."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book5",
+			"etag": "LynyOSh6NX8",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/yhNZPgAACAAJ",
+			"volumeInfo": {
+				"title": "Harry Potter and the Sorcerer's Stone",
+				"authors": [
+					"J. K. Rowling"
+				],
+				"publishedDate": "2001-07-01",
+				"description": "In conjunction with the first live action HARRY POTTER movie, Scholastic is proud to offer this beautiful poster book, each page featuring an image from the film to display and treasure. The HARRY POTTER POSTER BOOK includes 16 high quality HARRY POTTER posters, each featuring a different beloved character or thrilling scene from HARRY POTTER AND THE SORCERER'S STONE. Using movie stills from the upcoming Warner Bros. movie, this exciting collection brings Harry's magical adventures to life. Each page is perforated, so posters can be easily torn out and displayed. No Harry fan's home will be complete without these exciting full-color posters from the feature film everybody is talking about!",
+				"industryIdentifiers": [{
+						"type": "ISBN_10",
+						"identifier": "0439286239"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780439286237"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 32,
+				"printType": "BOOK",
+				"categories": [
+					"Juvenile Fiction"
+				],
+				"averageRating": 4.5,
+				"ratingsCount": 1544,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=yhNZPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=yhNZPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=yhNZPgAACAAJ&dq=harry+potter&hl=&cd=5&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=yhNZPgAACAAJ&dq=harry+potter&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Sorcerer_s_Stone.html?hl=&id=yhNZPgAACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=yhNZPgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "In conjunction with the first live action HARRY POTTER movie, Scholastic is proud to offer this beautiful poster book, each page featuring an image from the film to display and treasure."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book6",
+			"etag": "9AIW1R3GPuA",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/YvQ_AhkJpBUC",
+			"volumeInfo": {
+				"title": "Harry Potter",
+				"subtitle": "",
+				"authors": [
+					"JK Rowling"
+				],
+				"publisher": "Per Noste",
+				"publishedDate": "2004-10",
+				"description": "The first five Harry Potter books in paperback editions, all in an attractive slip case.",
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 5,
+				"printType": "BOOK",
+				"averageRating": 4.5,
+				"ratingsCount": 4,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=YvQ_AhkJpBUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=YvQ_AhkJpBUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=YvQ_AhkJpBUC&printsec=frontcover&dq=harry+potter&hl=&cd=6&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=YvQ_AhkJpBUC&dq=harry+potter&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter.html?hl=&id=YvQ_AhkJpBUC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=YvQ_AhkJpBUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book7",
+			"etag": "Z6mAyi2zoEg",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/szF_pLGmJTQC",
+			"volumeInfo": {
+				"title": "Baptizing Harry Potter",
+				"subtitle": "A Christian Reading of J.K. Rowling",
+				"authors": [
+					"Luke Bell"
+				],
+				"publisher": "Paulist Press",
+				"publishedDate": "2010",
+				"description": "Christianity.",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9781616431150"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1616431156"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 224,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"averageRating": 3.0,
+				"ratingsCount": 2,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=szF_pLGmJTQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=szF_pLGmJTQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=szF_pLGmJTQC&printsec=frontcover&dq=harry+potter&hl=&cd=7&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=szF_pLGmJTQC&source=gbs_api",
+				"canonicalVolumeLink": "https://market.android.com/details?id=book-szF_pLGmJTQC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 819.09,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 409.54,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=szF_pLGmJTQC&rdid=book-szF_pLGmJTQC&rdot=1&source=gbs_api",
+				"offers": [{
+					"finskyOfferType": 1,
+					"listPrice": {
+						"amountInMicros": 8.1909E8,
+						"currencyCode": "INR"
+					},
+					"retailPrice": {
+						"amountInMicros": 4.0954E8,
+						"currencyCode": "INR"
+					}
+				}]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Baptizing_Harry_Potter-sample-pdf.acsm?id=szF_pLGmJTQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=szF_pLGmJTQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Christianity."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book8",
+			"etag": "kRn4Sl0o2e0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/H9UJmPTY0LIC",
+			"volumeInfo": {
+				"title": "Harry Potter and Philosophy",
+				"subtitle": "If Aristotle Ran Hogwarts",
+				"authors": [
+					"Associate Professor of Philosophy David Baggett",
+					"William Irwin"
+				],
+				"publisher": "ReadHowYouWant.com",
+				"publishedDate": "2010-10-01",
+				"description": "You don't need a diploma in arithmancy, the friendship of a hippogriff, or even a Hogwarts Library card to discover amazing and arcane secrets in the labyrinthine world of Harry Potter. In the book you now hold in your hands (or for more advanced students, the book you have levitated into a suitable position while you feed snacks to your owl), seventeen philosophical scholars unlock some of Hogwarts secret panels, displaying fresh insights enlightening both for sorcerers and for the more discerning Muggles. Among the occult lore here revealed, behold the best recipe for true courage, proof that self-deception does not yield happiness, how ethics can be applied to the branch of technology known as magic, why the Mirror of Erised isn't adequate for real life, whether prophecy rules out free choice, and what dementors and boggarts can teach us about joy, fear, and the soul. All the pages of this book are acid-free and have been individually bewitched with an anti-befuddlement incantation. Dont forget to keep your wand primed and read between the lines. Failure to observe these precautions may invite the malign influence of Vol sorry, He Who Must Not Be Named. ''Harry Potter and Philosophy is the most enjoyable HP spin-off Ive read and Ive read most of them. Some chapters are so full of good reflections, clear thinking, and reliable scholarship, I couldnt resist reading entire passages aloud. Our family plans to read these thought-provoking essays at the dinner table, sparking intelligent conversation with our teen- and college-aged children Harry Potter fans all.''",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9781459601055"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "145960105X"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 404,
+				"printType": "BOOK",
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.0.1.0.preview.1",
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=H9UJmPTY0LIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=H9UJmPTY0LIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=H9UJmPTY0LIC&printsec=frontcover&dq=harry+potter&hl=&cd=8&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=H9UJmPTY0LIC&dq=harry+potter&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_Philosophy.html?hl=&id=H9UJmPTY0LIC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=H9UJmPTY0LIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "All the pages of this book are acid-free and have been individually bewitched with an anti-befuddlement incantation. Dont forget to keep your wand primed and read between the lines."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book9",
+			"etag": "ra7Bkg+3xiw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/C63mayArNqoC",
+			"volumeInfo": {
+				"title": "A Parent's Guide to Harry Potter",
+				"authors": [
+					"Gina Burkart"
+				],
+				"publisher": "InterVarsity Press",
+				"publishedDate": "2009-09-20",
+				"description": "Harry Potter has captivated the imagination of millions of children. And Harry Potter has caused controversy in churches and schools. What's a parent to do with the magical, mystical world of Harry and his friends? Gina Burkart chose to read the books with her own children. As they read together, she discovered many parallels between Christian faith and the themes of these books. Indeed, the escapades of Harry Potter sparked significant conversation between Burkart and her kids. In this helpful, entertaining guide, Burkart shows how Harry Potter fits into the tradition of fairy tale writing and how this type of literature aids in building a moral framework. She highlights specific situations and emotions from Harry's world that children face in their own life, such as fear, anger, bullies, diversity and the choice of good over evil. Instead of magic words or easy answers, Burkart offers solid, practical advice for helping parents and children navigate Harry Potter's world--and our own--together.",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9780830874323"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0830874321"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 112,
+				"printType": "BOOK",
+				"categories": [
+					"Family & Relationships"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "2.0.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=C63mayArNqoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=C63mayArNqoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=C63mayArNqoC&printsec=frontcover&dq=harry+potter&hl=&cd=9&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=C63mayArNqoC&source=gbs_api",
+				"canonicalVolumeLink": "https://market.android.com/details?id=book-C63mayArNqoC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 558.01,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 279.0,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=C63mayArNqoC&rdid=book-C63mayArNqoC&rdot=1&source=gbs_api",
+				"offers": [{
+					"finskyOfferType": 1,
+					"listPrice": {
+						"amountInMicros": 5.5801E8,
+						"currencyCode": "INR"
+					},
+					"retailPrice": {
+						"amountInMicros": 2.79E8,
+						"currencyCode": "INR"
+					}
+				}]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=C63mayArNqoC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Gina Burkart chose to read the books with her own children. As they read together, she discovered many parallels between Christian faith and the themes of these books."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book10",
+			"etag": "5Vk8mB4EO3E",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/iO5pApw2JycC",
+			"volumeInfo": {
+				"title": "The Ivory Tower and Harry Potter",
+				"subtitle": "Perspectives on a Literary Phenomenon",
+				"authors": [
+					"Lana A. Whited"
+				],
+				"publisher": "University of Missouri Press",
+				"publishedDate": "2004",
+				"description": "Now available in paper, The Ivory Tower and Harry Potter is the first book-length analysis of J. K. Rowling's work from a broad range of perspectives within literature, folklore, psychology, sociology, and popular culture. A significant portion of the book explores the Harry Potter series' literary ancestors, including magic and fantasy works by Ursula K. LeGuin, Monica Furlong, Jill Murphy, and others, as well as previous works about the British boarding school experience. Other chapters explore the moral and ethical dimensions of Harry's world, including objections to the series raised within some religious circles. In her new epilogue, Lana A. Whited brings this volume up to date by covering Rowling's latest book, Harry Potter and the Order of the Phoenix.",
+				"industryIdentifiers": [{
+						"type": "ISBN_10",
+						"identifier": "0826215491"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780826215499"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 418,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"averageRating": 4.5,
+				"ratingsCount": 13,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "2.0.3.0.preview.3",
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=iO5pApw2JycC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=iO5pApw2JycC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=iO5pApw2JycC&printsec=frontcover&dq=harry+potter&hl=&cd=10&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=iO5pApw2JycC&dq=harry+potter&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Ivory_Tower_and_Harry_Potter.html?hl=&id=iO5pApw2JycC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Ivory_Tower_and_Harry_Potter-sample-epub.acsm?id=iO5pApw2JycC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=iO5pApw2JycC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "In her new epilogue, Lana A. Whited brings this volume up to date by covering Rowling&#39;s latest book, Harry Potter and the Order of the Phoenix."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book11",
+			"etag": "n75sGu2f5qY",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/u7T4DAAAQBAJ",
+			"volumeInfo": {
+				"title": "the alchemist - paulo coelho",
+				"subtitle": "",
+				"authors": [
+					"Paulo Coelho"
+				],
+				"publisher": "GR",
+				"publishedDate": "2002",
+				"description": "This international bestseller about the shepherd boy Santiago who learns how to live his dreams.",
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 175,
+				"printType": "BOOK",
+				"categories": [
+					"Alchemists"
+				],
+				"averageRating": 3.0,
+				"ratingsCount": 4445,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=u7T4DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=u7T4DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=u7T4DAAAQBAJ&printsec=frontcover&dq=paulo+coelho&hl=&cd=1&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=u7T4DAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://market.android.com/details?id=book-u7T4DAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 70.0,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 70.0,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=u7T4DAAAQBAJ&rdid=book-u7T4DAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [{
+					"finskyOfferType": 1,
+					"listPrice": {
+						"amountInMicros": 7.0E7,
+						"currencyCode": "INR"
+					},
+					"retailPrice": {
+						"amountInMicros": 7.0E7,
+						"currencyCode": "INR"
+					}
+				}]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/the_alchemist_paulo_coelho-sample-pdf.acsm?id=u7T4DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=u7T4DAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Paulo Coelho&#39;s enchanting novel has inspired a devoted following around the world, and this tenth anniversary edition, with a new introduction from the author, will only increase that following."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book12",
+			"etag": "GXgGl6wH+8s",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/7RXVDQAAQBAJ",
+			"volumeInfo": {
+				"title": "The Spy",
+				"authors": [
+					"Paulo Coelho"
+				],
+				"publisher": "Random House India",
+				"publishedDate": "2016-11-15",
+				"description": "When Mata Hari arrived in Paris she was penniless. Within months she was the most celebrated woman in the city. As a dancer, she shocked and delighted audiences; as a courtesan, she bewitched the era’s richest and most powerful men. But as paranoia consumed a country at war, Mata Hari’s lifestyle brought her under suspicion. In 1917, she was arrested in her hotel room on the Champs-Élysées, and accused of espionage. Told in Mata Hari’s voice through her final letter, The Spy is the unforgettable story of a woman who dared to defy convention and paid the ultimate price.",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9789385990410"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "9385990411"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 208,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.1.1.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=7RXVDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=7RXVDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=7RXVDQAAQBAJ&printsec=frontcover&dq=paulo+coelho&hl=&cd=2&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=7RXVDQAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://market.android.com/details?id=book-7RXVDQAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 254.0,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 129.1,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=7RXVDQAAQBAJ&rdid=book-7RXVDQAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [{
+					"finskyOfferType": 1,
+					"listPrice": {
+						"amountInMicros": 2.54E8,
+						"currencyCode": "INR"
+					},
+					"retailPrice": {
+						"amountInMicros": 1.291E8,
+						"currencyCode": "INR"
+					}
+				}]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Spy-sample-epub.acsm?id=7RXVDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Spy-sample-pdf.acsm?id=7RXVDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=7RXVDQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Told in Mata Hari’s voice through her final letter, The Spy is the unforgettable story of a woman who dared to defy convention and paid the ultimate price."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book13",
+			"etag": "XM+ddzL3GxQ",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/3MBiAwAAQBAJ",
+			"volumeInfo": {
+				"title": "Adultery",
+				"authors": [
+					"Paulo Coelho"
+				],
+				"publisher": "Penguin UK",
+				"publishedDate": "2014-08-17",
+				"description": "Have you ever looked at your life and wondered, 'Is this it?' Linda knows she's lucky. Yet every morning when she opens her eyes to a so-called new day, she feels like closing them again. Her friends recommend medication. But Linda wants to feel more, not less. And so she embarks on an adventure as unexpected as it is daring, and which reawakens a side of her that she - respectable wife, loving mother, ambitious journalist - thought had disappeared. Even she can't predict what will happen next . . . A novel about discovering who you are, where you're going, and what matters to you most. 'Paulo Coelho's books have had a life-enhancing impact on millions of people.' The Times",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9780857978028"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0857978020"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 272,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"averageRating": 2.5,
+				"ratingsCount": 2996,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.7.7.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=3MBiAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=3MBiAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=3MBiAwAAQBAJ&printsec=frontcover&dq=paulo+coelho&hl=&cd=3&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=3MBiAwAAQBAJ&dq=paulo+coelho&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Adultery.html?hl=&id=3MBiAwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Adultery-sample-epub.acsm?id=3MBiAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=3MBiAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Even she can&#39;t predict what will happen next . . . A novel about discovering who you are, where you&#39;re going, and what matters to you most. &#39;Paulo Coelho&#39;s books have had a life-enhancing impact on millions of people.&#39; The Times"
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book14",
+			"etag": "eMMKzXpuzQQ",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/Gkqet2-5fuoC",
+			"volumeInfo": {
+				"title": "Aleph",
+				"authors": [
+					"Paulo Coelho"
+				],
+				"publisher": "HarperCollins UK",
+				"publishedDate": "2011-09-01",
+				"description": "Another stunning novel by the author of The Alchemist.",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9780007435531"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0007435533"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 320,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"averageRating": 3.5,
+				"ratingsCount": 14,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.6.3.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=Gkqet2-5fuoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=Gkqet2-5fuoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=Gkqet2-5fuoC&printsec=frontcover&dq=paulo+coelho&hl=&cd=4&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=Gkqet2-5fuoC&source=gbs_api",
+				"canonicalVolumeLink": "https://market.android.com/details?id=book-Gkqet2-5fuoC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 252.31,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 177.65,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=Gkqet2-5fuoC&rdid=book-Gkqet2-5fuoC&rdot=1&source=gbs_api",
+				"offers": [{
+					"finskyOfferType": 1,
+					"listPrice": {
+						"amountInMicros": 2.5231E8,
+						"currencyCode": "INR"
+					},
+					"retailPrice": {
+						"amountInMicros": 1.7765E8,
+						"currencyCode": "INR"
+					}
+				}]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Aleph-sample-epub.acsm?id=Gkqet2-5fuoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=Gkqet2-5fuoC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Another stunning novel by the author of The Alchemist."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book15",
+			"etag": "OwfXlBp2hqA",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/hH6V9rqQ7Q0C",
+			"volumeInfo": {
+				"title": "Manuscript Found in Accra",
+				"authors": [
+					"Paulo Coelho"
+				],
+				"publisher": "HarperCollins UK",
+				"publishedDate": "2013-03-28",
+				"description": "Another incredible novel from the #1 internationally bestselling author of The Alchemist.",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9780007514243"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0007514247"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 208,
+				"printType": "BOOK",
+				"categories": [
+					"Body, Mind & Spirit"
+				],
+				"averageRating": 4.0,
+				"ratingsCount": 13,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.2.3.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=hH6V9rqQ7Q0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=hH6V9rqQ7Q0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=hH6V9rqQ7Q0C&printsec=frontcover&dq=paulo+coelho&hl=&cd=5&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=hH6V9rqQ7Q0C&source=gbs_api",
+				"canonicalVolumeLink": "https://market.android.com/details?id=book-hH6V9rqQ7Q0C"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 252.31,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 204.52,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=hH6V9rqQ7Q0C&rdid=book-hH6V9rqQ7Q0C&rdot=1&source=gbs_api",
+				"offers": [{
+					"finskyOfferType": 1,
+					"listPrice": {
+						"amountInMicros": 2.5231E8,
+						"currencyCode": "INR"
+					},
+					"retailPrice": {
+						"amountInMicros": 2.0452E8,
+						"currencyCode": "INR"
+					}
+				}]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Manuscript_Found_in_Accra-sample-epub.acsm?id=hH6V9rqQ7Q0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=hH6V9rqQ7Q0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Another incredible novel from the #1 internationally bestselling author of The Alchemist."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book16",
+			"etag": "IUQwyYBpcwc",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/l01gLYUHcW0C",
+			"volumeInfo": {
+				"title": "The Pilgrimage",
+				"authors": [
+					"Paulo Coelho"
+				],
+				"publisher": "Harper Collins",
+				"publishedDate": "2009-10-13",
+				"description": "Here Paulo Coelho details his journey across Spain along the legendaryroad of San Tiago, which pilgrims have travelled since Middle Ages. On this contemporary quest, he encounters a Chaucerian variety of mysterious guides and devilish opponents and learns to understand the nature of truth through the simplicity of life. The Pilgrimage holds an important place in Paulo Coelho's literary canon. His first book, it not only paved the way for his phenomenal novel The Alchemist , but it also fully expresses his humanist philosophy and the depth of his unique search for meaning.",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9780061841927"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0061841927"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 288,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.6.6.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=l01gLYUHcW0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=l01gLYUHcW0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=l01gLYUHcW0C&printsec=frontcover&dq=paulo+coelho&hl=&cd=6&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=l01gLYUHcW0C&source=gbs_api",
+				"canonicalVolumeLink": "https://market.android.com/details?id=book-l01gLYUHcW0C"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 571.59,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 360.1,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=l01gLYUHcW0C&rdid=book-l01gLYUHcW0C&rdot=1&source=gbs_api",
+				"offers": [{
+					"finskyOfferType": 1,
+					"listPrice": {
+						"amountInMicros": 5.7159E8,
+						"currencyCode": "INR"
+					},
+					"retailPrice": {
+						"amountInMicros": 3.601E8,
+						"currencyCode": "INR"
+					}
+				}]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Pilgrimage-sample-epub.acsm?id=l01gLYUHcW0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=l01gLYUHcW0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The Pilgrimage holds an important place in Paulo Coelho&#39;s literary canon."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book17",
+			"etag": "7+59MU2h+Ho",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/E9GZrZpNiyEC",
+			"volumeInfo": {
+				"title": "Brida",
+				"authors": [
+					"Paulo Coelho"
+				],
+				"publisher": "HarperCollins UK",
+				"publishedDate": "2011-04-28",
+				"description": "The spellbinding novel from one of the world's best-loved authors, Paulo Coelho, now in ebook.",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9780007379972"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0007379978"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 288,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"averageRating": 3.0,
+				"ratingsCount": 22,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "4.6.3.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=E9GZrZpNiyEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=E9GZrZpNiyEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=E9GZrZpNiyEC&printsec=frontcover&dq=paulo+coelho&hl=&cd=7&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=E9GZrZpNiyEC&source=gbs_api",
+				"canonicalVolumeLink": "https://market.android.com/details?id=book-E9GZrZpNiyEC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 252.31,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 176.62,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=E9GZrZpNiyEC&rdid=book-E9GZrZpNiyEC&rdot=1&source=gbs_api",
+				"offers": [{
+					"finskyOfferType": 1,
+					"listPrice": {
+						"amountInMicros": 2.5231E8,
+						"currencyCode": "INR"
+					},
+					"retailPrice": {
+						"amountInMicros": 1.7662E8,
+						"currencyCode": "INR"
+					}
+				}]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Brida-sample-epub.acsm?id=E9GZrZpNiyEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=E9GZrZpNiyEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The spellbinding novel from one of the world&#39;s best-loved authors, Paulo Coelho, now in ebook."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book18",
+			"etag": "nabM5tAqgOk",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/FEL8DlqjYEkC",
+			"volumeInfo": {
+				"title": "The Alchemist - 10th Anniversary Edition",
+				"authors": [
+					"Paulo Coelho"
+				],
+				"publisher": "Harper Collins",
+				"publishedDate": "2009-10-13",
+				"description": "\"My heart is afraid that it will have to suffer,\" the boy told the alchemist one night as they looked up at the moonless sky.\" Tell your heart that the fear of suffering is worse than the suffering itself. And that no heart has ever suffered when it goes in search of its dreams.\" Every few decades a book is published that changes the lives of its readers forever. The Alchemist is such a book. With over a million and a half copies sold around the world, The Alchemist has already established itself as a modern classic, universally admired. Paulo Coelho's charming fable, now available in English for the first time, will enchant and inspire an even wider audience of readers for generations to come. The Alchemist is the magical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure as extravagant as any ever found. From his home in Spain he journeys to the markets of Tangiers and across the Egyptian desert to a fateful encounter with the alchemist. The story of the treasures Santiago finds along the way teaches us, as only a few stories have done, about the essential wisdom of listening to our hearts, learning to read the omens strewn along life's path, and, above all, following our dreams.",
+				"industryIdentifiers": [{
+						"type": "ISBN_10",
+						"identifier": "0061741248"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780061741241"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 208,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"averageRating": 4.5,
+				"ratingsCount": 192,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.7.6.0.preview.2",
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=FEL8DlqjYEkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=FEL8DlqjYEkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=FEL8DlqjYEkC&printsec=frontcover&dq=paulo+coelho&hl=&cd=8&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=FEL8DlqjYEkC&dq=paulo+coelho&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Alchemist_10th_Anniversary_Edition.html?hl=&id=FEL8DlqjYEkC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Alchemist_10th_Anniversary_Edition-sample-epub.acsm?id=FEL8DlqjYEkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=FEL8DlqjYEkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The story of the treasures Santiago finds along the way teaches us, as only a few stories have done, about the essential wisdom of listening to our hearts, learning to read the omens strewn along life&#39;s path, and, above all, following our ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book19",
+			"etag": "sypLTLvln6Y",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/kL1JPgAACAAJ",
+			"volumeInfo": {
+				"title": "The Paulo Coelho Deluxe Collection",
+				"subtitle": "The Alchemist / Eleven Minutes / The Fith Mountain / The Devil and Miss Prym / Veronika Decides to Die / By the River Piedra I Sat Down and Wept / The Pilgrimage / The Witch of Portobello / The Valkyries / The Zahir",
+				"authors": [
+					"Paulo Coelho"
+				],
+				"publishedDate": "2008-10",
+				"industryIdentifiers": [{
+						"type": "ISBN_10",
+						"identifier": "000783943X"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780007839438"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"printType": "BOOK",
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=kL1JPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=kL1JPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=kL1JPgAACAAJ&dq=paulo+coelho&hl=&cd=9&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=kL1JPgAACAAJ&dq=paulo+coelho&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Paulo_Coelho_Deluxe_Collection.html?hl=&id=kL1JPgAACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=kL1JPgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "book20",
+			"etag": "upOr1YZqhHc",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/x6oN7nJJCWkC",
+			"volumeInfo": {
+				"title": "Paulo Coelho: A Warrior's Life",
+				"subtitle": "The Authorized Biography",
+				"authors": [
+					"Fernando Morais"
+				],
+				"publisher": "Harper Collins",
+				"publishedDate": "2009-11-17",
+				"description": "Paulo Coelho: A Warrior’s Life is the definitive, authorized biography of one of the world’s most popular and widely read authors—and the story of how his enormously popular novel The Alchemist came to be. Fernando Morais, the preeminent biographer in Brazil and a groundbreaking journalist, traces Coelho’s roots in Brazil to his time as a musician and pop lyricist to his wild days of rock and roll to the publication of the The Alchemist and beyond, telling the true tale of one of the most adored authors of our time.",
+				"industryIdentifiers": [{
+						"type": "ISBN_13",
+						"identifier": "9780061959707"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0061959707"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 480,
+				"printType": "BOOK",
+				"categories": [
+					"Biography & Autobiography"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "2.0.0.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=x6oN7nJJCWkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=x6oN7nJJCWkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=x6oN7nJJCWkC&printsec=frontcover&dq=paulo+coelho&hl=&cd=10&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=x6oN7nJJCWkC&dq=paulo+coelho&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Paulo_Coelho_A_Warrior_s_Life.html?hl=&id=x6oN7nJJCWkC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://books.google.co.in/books/reader?id=x6oN7nJJCWkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The novel has already achieved the status of a universally admired modern classic. Now, for the first time, discover the life story of one of the most widely read and adored authors of our time."
+			}
+		}
+	]
+}

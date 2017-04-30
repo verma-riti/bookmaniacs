@@ -1,0 +1,58 @@
+<div ng-controller="checkoutCtrl">
+  <ul class="collection">
+    <li class="collection-item avatar" ng-repeat="item in cartItems">
+      <img src="{{item.thumbnail}}" alt="" class="circle">
+      <span class="title">{{item.title}}</span>
+      <a class="secondary-content" ng-click="deleteItem(title,thumbnail)"><i class="material-icons">delete</i></a>
+    </li>
+  </ul>
+  <div class="checkout_btn">
+      <a class="waves-effect waves-light btn" href="#checkout">CHECKOUT</a>
+      <a class="waves-effect waves-light btn deleteCart" ng-click="deleteCart(title,thumbnail)">DELETE CART</a>
+  </div>
+  <!-- <div class="col l8 s12 m12">
+    <div class="card">
+        <div class="card-content">
+          <h4 style="text-align:center;"><strong>Delivery address</strong></h4>
+        </div>
+        <div class="card-content grey lighten-4">
+          <ul class="collection">
+            <li class="collection-item avatar">
+              <i class="material-icons circle green">home</i>
+              <span class="title">HOME</span>
+              <p>3rd floor, flat no.c2,B-13/14 near mother dairy. NEW DELHI</p>
+              <a href="#!" class="secondary-content"><i class="material-icons">pencil</i></a>
+            </li>
+            <li class="collection-item avatar">
+              <i class="material-icons circle">work</i>
+              <span class="title">OFFICE</span>
+              <p>KRISHNA MILLS COMPOUND ,BHANDUP ,MUMBAI
+              </p>
+              <a href="#!" class="secondary-content"><i class="material-icons">pencil</i></a>
+            </li>
+            <li class="collection-item avatar">
+              <i class="material-icons circle green">dashboard</i>
+              <span class="title">OTHERS</span>
+              <p>4D -101 DREAMS SOCIETY ,BHANDUP ,MUMBAI
+              </p>
+              <a href="#!" class="secondary-content"><i class="material-icons">pencil</i></a>
+            </li>
+        </ul>
+      </div>
+      </div>
+  </div>
+  <div class="col l4 s12 m12">
+    <div class="card blue-grey darken-1">
+            <div class="card-content white-text">
+              <span class="card-title">PRICE DETAILS</span>
+            </div>
+            <div class="card-content">
+          <p class="card-title activator grey-text text-darken-4">Price (item 1)</p>
+          <p class="card-title activator grey-text text-darken-4">Delivery Charges</p>
+        </div>
+            <div class="card-action">
+              <p>AMOUNT PAYABLE</p>
+            </div>
+        </div>
+  </div> -->
+</div>

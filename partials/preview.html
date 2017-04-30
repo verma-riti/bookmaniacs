@@ -1,0 +1,25 @@
+<div class="row" ng-controller="previewCtrl">
+    <div class="col l1 s12 m2 preview_box">
+    	<div class="waves-effect waves-block waves-light preview_img">
+	      <img class="activator" src="{{thumbnail}}">
+	      <img class="activator" src="{{thumbnail}}">
+	      <img class="activator" src="{{thumbnail}}">
+	    </div>
+    </div>
+    <div class="col l3 s12 m4 image_box">
+    	<img class="activator" src="{{image}}">
+    	<add-to-cart-button class="waves-effect waves-light btn" ng-click="addToCart(id , title, thumbnail)" >Add To Cart</add-to-cart-button>
+    	<a class="waves-effect waves-light btn" href="#checkout" ng-click="addToCart(id , title, thumbnail)">Buy</a>
+    </div>
+    <div class="col l8 s12 m6 details_box">
+    	<h4>{{title}}</h4>
+    	<p><b>Ratings : </b>{{avgRatings}}</p>
+    	<p><b>ISBN: </b><span ng-repeat="j in ISBN"></span> {{j.identifier}}</p>
+    	<p><b>Page: </b>{{length}}</p>
+    	<p><b>Authors: </b><span ng-repeat="j in authors" ><span>{{j}}</p>
+    	<p><b>Publish Date: </b>{{publishDate}}</p>
+    	<p><b>Publisher: </b>{{publisher}}</p>
+    	<p>{{subtitle}}</p>
+    	<p>{{textSnippet}}.</p>
+	</div>
+</div>

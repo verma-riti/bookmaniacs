@@ -1,0 +1,50 @@
+<!DOCTYPE>
+<html ng-app="myApp">
+<head>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/css/materialize.min.css">
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/js/materialize.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-materialize/0.2.2/angular-materialize.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+</head>
+<body>
+	<section ng-controller="myCtrl">
+		<header>
+			<nav>
+			    <div class="nav-wrapper">
+			      
+			      <ul id="nav-mobile" class="left hide-on-med-and-down">
+			      	<li><a href="#"><h3><b>CodeRecipes</b></h3></a></li>
+			        <li class="input_search">
+			        	<a>
+			        		<div class="input-field">
+						      <input  id="search" name="search" type="text" class="form-control validate" placeholder="Enter search items" ng-model="search" ng-keyup="inputSearch(search)">
+						      <ul class="list-group" ng-model="hideThis" ng-hide="hideThis">
+						      	<li class="list-group-item" ng-repeat="book in filterBook  track by $index" ng-click="fillInput(book)">{{book}}</li>
+						  	</div>
+			        	</a>
+
+	        		</li>
+			        <li >
+			        	<a class="cart" ng-mouseover = "cartHover()" href="#cartDetails"><i class="material-icons">shopping_cart</i> </a>
+			        </li>
+			        <li><a class="cart_text">CART <span class="num_of_item">0</span></a></li>
+			      </ul>
+			    </div>
+			</nav>
+			<div>
+			    <div chips ng-model="chips" secondary-placeholder="secondary placeholder" placeholder="primary placeholder"></div>
+			</div>
+		</header>
+		<!--carousel  -->
+		<div ng-view></div>
+	</section>
+	
+	<script type="text/javascript" src="assets/libs/angular-route.min.js"></script>
+	<script type="text/javascript" src="assets/js/app.js"></script>
+	<script type="text/javascript" src="assets/js/main.js"></script>
+</body>
+</html>

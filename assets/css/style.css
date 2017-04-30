@@ -1,0 +1,210 @@
+
+body{
+	background-color: #757575;
+	position: relative;
+    height: 100%;
+    font-family: "Source Sans Pro",Arial;
+    font-size: 16px;
+    color: #2d2d2d;
+    margin: 0;
+    padding: 0;
+}
+section{
+	width: 92%;
+    margin-left: 4%;
+    background-color: #e6e6e6;
+}
+nav {
+    color: #212321;
+    background-color:#004d40;
+    width: 100%;
+    height: 120px;
+    line-height: 56px;
+    box-shadow: none;
+    min-width: 320px;
+    margin: 0 auto;
+    border-bottom: 1px solid #e6e6e6;
+}
+.carousel {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 330px;
+    -webkit-perspective: 500px;
+    perspective: 500px;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-transform-origin: 0% 50%;
+    transform-origin: 0% 50%;
+}
+.nav-mobile li {
+    display: inline-block;
+    color: #212321;
+}
+nav ul  li  .cart{
+    margin:20px 0 0 20px;
+
+}
+nav ul  li  .cart_text{
+   margin:25px 0 0 0px;
+   padding-left: 0; 
+}
+nav ul .input_search{
+    width:500px;
+}
+nav ul a {
+    transition: background-color .3s;
+    font-size: 1rem;
+    color: #f5f5f5;
+    display: block;
+    padding: 8px 30px;
+    cursor: pointer;
+
+}
+ .browse-recipes a {
+    display: block;
+    height: 70px;
+    line-height: 50px;
+    margin-top: 10px;
+    background: #f2f2f2;
+}
+/*li .browse-recipes a span{
+	display: block;
+    background-color: #e6e6e6;
+    height: 70%;
+    width: 130px;
+    padding-left: 15px;
+}*/
+ .browse-recipes :hover {
+    background-color: #ebebeb;
+}
+nav .input-field{
+	height: 40%;
+    margin-top:30px;
+    margin-bottom: 0px;
+    border: 1px solid #4CAF50 !important;
+}
+nav .input-field input{
+    background-color: #fff;
+    font-size: 1.2rem;
+    color:#131212;
+    padding-left: 2rem;
+}
+nav .input-field input:focus, nav .input-field input[type=text]:valid, nav .input-field input[type=password]:valid, nav .input-field input[type=email]:valid, nav .input-field input[type=url]:valid, nav .input-field input[type=date]:valid {
+    border: none;
+    box-shadow: none;
+}
+.header-msg{
+	text-align: center;
+	margin-bottom:100px; 
+}
+.card{
+	width: 100% !important;
+  	background-color: #ddd;
+    border: 1px solid #e6e6e6;
+	-webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    -ms-grid-row-align: flex-start;
+          align-items: flex-start;
+  	-webkit-align-content: flex-start;
+    -ms-flex-line-pack: start;
+          align-content: flex-start;
+}
+.card.small {
+    height: 350px;
+}
+.card img{
+	height:100%;
+    width: 100%;
+}
+.card .card-title {
+    font-size: 16px;
+    font-weight: 300;
+}
+.card .card-content .card-title {
+    display: block;
+    line-height: 22px;
+}
+.preview_box{
+    margin-top:50px; 
+    height: 500px;
+    width: 100%;
+}
+.preview_img{
+    height:500px;
+}
+.preview_img img{
+    width: 50%;
+    margin: 2px;
+}
+.image_box{
+    margin-top:50px;
+    height: 500px;
+    width: 100%;
+    /*border: 1px solid #eceff1;*/
+}
+.image_box img{
+    height:300px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.details_box{
+    margin: 50px 0 0 50px;
+}
+.shakeit {
+      -webkit-animation-name: thumb;
+    -webkit-animation-duration: 200ms;
+    -webkit-transform-origin:50% 50%;
+    -webkit-animation-iteration-count: 2;
+    -webkit-animation-timing-function: linear;
+}
+.itemaddedanimate {
+  -webkit-transition: all ease-in-out 0.5s;
+}
+@-webkit-keyframes thumb {
+    0% { -webkit-transform: scale(1); }
+    50% { -webkit-transform: scale(0.8); }
+    100% { -webkit-transform: scale(1); }
+}
+.card_number input{
+    width:18%;
+}
+.checkout_btn{
+    height: 150px;
+    margin: 5px;
+    text-align: center;
+}
+.checkout_btn a{
+    margin-top: 50px;
+}
+.checkout_card{
+    margin-top: 20px;
+    border: none;
+}
+[type="radio"]:not(:checked), [type="radio"]:checked {
+    position: absolute;
+    left:550px;
+    top: 35px;
+    opacity: 1;
+}
+select {
+    display: -webkit-box;
+    color:#a96868;
+    font-weight: 600;
+}
+.collection .title{
+    color:#a96868;
+    font-weight: 600;
+}
+.card-content h5{
+    font-weight: 900;
+    text-decoration: capitalization;
+}
+.card-content h5 {
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #772828;
+}
+ul.input_search a .input-field ul li{
+    background-color:#004d40;
+}
